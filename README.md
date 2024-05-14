@@ -1,0 +1,1 @@
+DICEGUESS: A dynamic web app built with HTML, CSS, and JavaScript for two players. Compete head-to-head on one screen, taking turns to guess the rolled dice value. The first to reach the target score wins! Enjoy interactive gameplay and friendly competition in this engaging dice guessing game.
